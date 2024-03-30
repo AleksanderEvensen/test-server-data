@@ -1,0 +1,29 @@
+# Cache #
+###################
+cache/*
+*.cache
+/db/default
+.turbo
+node_modules
+
+# logs #
+###################
+logs/**/*
+
+# filetypes #
+###################
+# *.bat
+*.txt
+*.bkp
+
+# single files #
+###################
+.replxx_history
+resources/\[local\]/*
+imgui.ini
+server.cfg
+start.bat
+yarn-error.log
+
+# Folders
+dist/
