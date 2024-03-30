@@ -3,7 +3,7 @@ const message = `
 
 This is a message from the 'test-resource'
 
-The current tag is 'v1.0.0'
+The current branch is 'main'
 
 
 
